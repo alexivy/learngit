@@ -1,1 +1,1 @@
-tests
+git push origin #remoteName# master #branchName#
